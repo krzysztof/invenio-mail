@@ -36,7 +36,6 @@ Invenio-Mail.
    installation
    configuration
    usage
-   examplesapp
 
 
 API Reference
